@@ -18,6 +18,7 @@ public class F6 {
         System.out.println("main");
         System.out.println("alolo");
         System.out.println("hey you dun run");
+        System.out.println("dun like this leh");
     }
     
 }
