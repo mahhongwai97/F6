@@ -16,6 +16,8 @@ public class F6 {
      */
     public static void main(String[] args) {
         System.out.println("main");
+        System.out.println("alolo");
+        System.out.println("hey you dun run");
     }
     
 }
